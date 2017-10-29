@@ -56,6 +56,16 @@
 			"deck": "Lightsworn",
 			"dialog": "default"
 		},
+	        {
+			"name": "MokeyMokey",
+			"deck": "MokeyMokey",
+			"dialog": "default"
+		},
+	    	{
+			"name": "MokeyMokeyKing",
+			"deck": "MokeyMokeyKing",
+			"dialog": "default"
+		},
 		{
 			"name": "Nekroz",
 			"deck": "Nekroz",
