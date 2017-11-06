@@ -1,11 +1,6 @@
 {
     "windbots": [
 		{
-			"name": "Blackwing",
-			"deck": "Blackwing",
-			"dialog": "default"
-		},
-		{
 			"name": "Blue-Eyes",
 			"deck": "Blue-Eyes",
 			"dialog": "default"
@@ -15,11 +10,6 @@
 			"deck": "Burn",
 			"dialog": "default"
 		},
-		{
-			"name": "CyberDragon",
-			"deck": "CyberDragon",
-			"dialog": "default"
-		},
 
 		{
 			"name": "Dragunity",
@@ -27,53 +17,8 @@
 			"dialog": "default"
 		},
 		{
-			"name": "EvilSwarm",
-			"deck": "EvilSwarm",
-			"dialog": "default"
-		},
-		{
 			"name": "Frog",
 			"deck": "Frog",
-			"dialog": "default"
-		},
-		{
-			"name": "Gravekeeper",
-			"deck": "Gravekeeper",
-			"dialog": "default"
-		},
-		{
-			"name": "Graydle",
-			"deck": "Graydle",
-			"dialog": "default"
-		},
-		{
-			"name": "Horus",
-			"deck": "Horus",
-			"dialog": "default"
-		},
-		{
-			"name": "Lightsworn",
-			"deck": "Lightsworn",
-			"dialog": "default"
-		},
-	        {
-			"name": "MokeyMokey",
-			"deck": "MokeyMokey",
-			"dialog": "default"
-		},
-	    	{
-			"name": "MokeyMokeyKing",
-			"deck": "MokeyMokeyKing",
-			"dialog": "default"
-		},
-		{
-			"name": "Nekroz",
-			"deck": "Nekroz",
-			"dialog": "default"
-		},
-		{
-			"name": "OldSchool",
-			"deck": "OldSchool",
 			"dialog": "default"
 		},
 		{
